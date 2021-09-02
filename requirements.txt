@@ -1,0 +1,9 @@
+tk
+csv
+re
+asyncio
+pandas==1.2.2
+colour==0.1.5
+matplotlib==3.3.4
+nest_asyncio==1.5.1
+numpy==1.20.1
