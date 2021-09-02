@@ -30,8 +30,8 @@ Install virtualenv:
 > cd <Repo name> # change directory
 > virtualenv env # create virtual enviroment
 > env\Scripts\activate # activate virtual env
-> git clone https://github.com/KMGEsim/KMGEsim_VS.git # clone repository
-> cd KMGEsim_VS # got to folder KMGEsim_VS
+> git clone https://github.com/Bekbo01/GDS.git # clone repository
+> cd GDS # got to folder GDS
 > pip install -r requirements.txt # install requirements packages
 > ..\env\Scripts\deactivate # deactivate enviroment
 ```
